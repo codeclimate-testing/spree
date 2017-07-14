@@ -8,3 +8,5 @@ scss:
   enabled: false
 coffeescript:
   config_file: coffeelint.json
+
+
